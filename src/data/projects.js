@@ -1,0 +1,32 @@
+export const projects = [
+  {
+    id: "anamorphosis",
+    tag: "IIITN GAMEJAM TANTRAFIESTA 2026",
+    title: "Anamorphosis",
+    link: "https://dipankarr.itch.io/anamorphosis",
+    desc: "Psychological horror game built for Tantrafiesta 2026. Designed around distorted spatial perspective and auditory dread.",
+    tech: ["Unity 6", "C#", "Perspective Shaders"],
+    image: "/screenshots/anamorphosis.jpg",
+    placeholderSub: "Screenshot: /public/screenshots/anamorphosis.jpg",
+  },
+  {
+    id: "fervency",
+    tag: "SOLO PROJECT // NARRATIVE HORROR (THIS PROJECT IS IN PROGRESS)",
+    title: "Fervency",
+    link: "",
+    desc: "Single-player atmospheric horror story game. Built solo with claustrophobic lighting and environmental storytelling.",
+    tech: ["Unity 2022", "Solo Dev", "Volumetric Lighting"],
+    image: "/screenshots/fervency.jpg",
+    placeholderSub: "Screenshot: /public/screenshots/fervency.jpg",
+  },
+  {
+    id: "chess3d",
+    tag: "TACTILE 3D SIMULATION",
+    title: "Chess 3D",
+    link: "https://dipankarr.itch.io/chess-3d",
+    desc: "Tactile 3D chess simulator with physical piece weight, dynamic lighting reflections, and customizable board skins.",
+    tech: ["Unity 6", "3D Physics", "Custom Skins"],
+    image: "/screenshots/chess3d.jpg",
+    placeholderSub: "Screenshot: /public/screenshots/chess3d.jpg",
+  },
+];
